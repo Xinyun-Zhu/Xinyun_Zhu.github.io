@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Xinyun's Note"
 title_separator          : "-"
-subtitle                 : Version 1.0# site tagline that appears below site title in masthead
+subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
 name                     : "Xinyun Zhu"
 description              : "This is my website. I put my projects here."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
