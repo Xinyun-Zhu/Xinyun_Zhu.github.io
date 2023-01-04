@@ -20,7 +20,7 @@ title                    : "Xinyun's Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Xinyun Zhu"
-description              : "An amazing website."
+description              : "This is my website. I put my projects here."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Xinyun Zhu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Welcome to my website!"
+  location         : "Somewhere **Amazing**"
   email            :
   links:
     - label: "Email"
