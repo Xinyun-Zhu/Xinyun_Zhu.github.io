@@ -1,6 +1,5 @@
 ---
 title: "Freddie loan data A/B testing project"
-last_modified_at: 2021-09-01T08:00:00-04:00
 categories:
   - A/B testing project
 tags:
