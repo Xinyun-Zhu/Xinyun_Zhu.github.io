@@ -5,7 +5,7 @@ permalink: /Data modeling project/
 
 Here are my data modeling projects.
 
-## Freddie loan data A/B testing project
-In this project I compare the difference of loan variables includes credit score and loan quality before and after the financial crisis. Assuming that all situations are consistent, the only change is that the government has strengthened supervision, I analyze what is the impact on loan quality.
+## Freddie loan data modeling project
+In this project we will build machine learning models to predict delinquency rate. It can help a bank or an investor to approve or decline a loan application, to frame a better pricing strategy (loans with higher probability of delinquency should be charged more) and to valuate loan quality. The dataset has a severe class imbalance since it has less than 10% delinquency rate. The challenge of working with this kind of imbalanced datasets is that most machine learning techniques will ignore the minority class, although it's performance on the minority class that is most important. In order to solve the problem involve rebalancing, boostrapping and SMOTE techniques.
 
-[Freddie loan data A/B testing project](https://github.com/Xinyun-Zhu/Freddie-loan-data-A-B-testing-project)
+[Freddie loan data modeling project](https://github.com/Xinyun-Zhu/Freddie-loan-data-modeling-project)
